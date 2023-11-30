@@ -91,6 +91,7 @@ body {
 pre {
     font-family: monospace, monospace;
     font-size: 1em;
+    text-wrap: wrap;
     margin: 20px;
     margin-top: 20px;
     margin-right: 30px;
